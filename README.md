@@ -38,16 +38,16 @@ An ASP.NET Core Razor Pages project showcasing reusable dashboard card component
     ```
 
 ### Project Structure
-
-SpikeDashboard/
+```
 ├── Pages/
-│ ├── Models/
-│ │ └── DashboardCardModel.cs #  Data model for dashboard cards
-│ ├── Shared/
-│ │ └── DashboardCard.cshtml # Reusable dashboard card partial view
-│ ├── Index.cshtml # Main dashboard page
-│ └── Index.cshtml.cs # Page model with sample data
-└── Program.cs # App startup
+│   ├── Models/
+│   │   └── DashboardCardModel.cs      # Data model for dashboard cards
+│   ├── Shared/
+│   │   └── DashboardCard.cshtml       # Reusable dashboard card partial view
+│   ├── Index.cshtml                   # Main dashboard page
+│   └── Index.cshtml.cs                # Page model with sample data
+└── Program.cs                        # App startup
+```
 
 
 ## How to Use
