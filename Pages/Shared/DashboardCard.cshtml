@@ -1,0 +1,37 @@
+@model SpikeDashboard.Models.DashboardCardModel
+
+@{
+    double percentageChange = 0; 
+    if (Model.lastWeekChange != 0)
+    {
+        percentageChange = ((Model.change - Model.lastWeekChange) / Model.lastWeekChange) * 100;
+    }
+
+
+    bool isPositiveChange = percentageChange > 0;
+}
+
+<div class="dashboard-card">
+    <div>
+        <h3 class="dashboard-card-title">@Model.title</h3>
+    </div>
+    
+    <div class="dashboard-card-value">
+        @($"{Model.value:N0}")@(Model.valueType == "percentage" ? "%" : "")
+    </div>
+
+    <div class="dashboard-card-change">
+
+<div class="change-container">
+<span class="@(isPositiveChange ? "positive" : "negative")">
+    <img 
+      src="~/assets/icons/@(isPositiveChange ? "up" : "down").svg" 
+      alt="@(isPositiveChange ? "Up" : "Down")" 
+      width="24" height="24" 
+    />
+    @Math.Abs(percentageChange).ToString("0.##")%
+</span> <span> from last week</span>
+</div>
+
+    </div>
+</div>

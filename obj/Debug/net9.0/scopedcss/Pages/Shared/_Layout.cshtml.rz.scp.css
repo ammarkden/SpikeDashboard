@@ -1,0 +1,13 @@
+.container[b-frh5urxi7j] {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  background-color:#eee;
+  padding: 20px;
+  height: 100%;
+}

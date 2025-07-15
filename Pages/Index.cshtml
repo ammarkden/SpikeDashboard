@@ -1,0 +1,10 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+    @foreach (var card in Model.Cards)
+    {
+        @await Html.PartialAsync("DashboardCard", card)
+    }
