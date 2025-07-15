@@ -25,13 +25,20 @@ An ASP.NET Core Razor Pages project showcasing reusable dashboard card component
     cd SpikeDashboard
     ```
 
-3. Run the application:
+3. Install node modules:
 
     ```bash
-    dotnet run
+    yarn
     ```
 
-4. Open your browser at: (it may differ from device to device. Check the terminal for the correct one)
+4. Run the application:
+
+    ```bash
+    dotnet watch run
+    ```
+   
+
+5. Open your browser at: (it may differ from device to device. Check the terminal for the correct one)
 
     ```
     http://localhost:5200/
