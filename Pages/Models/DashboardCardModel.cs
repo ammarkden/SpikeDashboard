@@ -8,6 +8,6 @@ namespace SpikeDashboard.Models
         public double change { get; set; }
 
         public int lastWeekChange { get; set; }
-        public bool isAvtive { get; set; }
+
     }
 }

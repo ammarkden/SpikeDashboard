@@ -26,7 +26,6 @@ Cards = new List<DashboardCardModel>
                 value = 1204,
                 change = 105.4,
                 lastWeekChange = 100,
-                isAvtive = true
             },
             new DashboardCardModel
             {
@@ -34,7 +33,7 @@ Cards = new List<DashboardCardModel>
                 value = 862,
                 change = 97.9,
                 lastWeekChange = 100,
-                isAvtive = true
+
             },
             new DashboardCardModel
             {
@@ -42,7 +41,6 @@ Cards = new List<DashboardCardModel>
                 value = 120,
                 change = 108.2,
                 lastWeekChange = 100,
-                isAvtive = false
             },
             new DashboardCardModel
             {
@@ -50,8 +48,7 @@ Cards = new List<DashboardCardModel>
                 value = 4.3,
                 change = 98.5,
                 lastWeekChange = 100,
-                valueType = "percentage",
-                isAvtive = false
+                valueType = "percentage",1`
             }
         };
     }
