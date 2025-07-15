@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/SpikeDashboard.csproj": {}
+    "/Users/ammarabutalip/Downloads/SpikeDashboard/SpikeDashboard.csproj": {}
   },
   "projects": {
-    "/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/SpikeDashboard.csproj": {
+    "/Users/ammarabutalip/Downloads/SpikeDashboard/SpikeDashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/SpikeDashboard.csproj",
+        "projectUniqueName": "/Users/ammarabutalip/Downloads/SpikeDashboard/SpikeDashboard.csproj",
         "projectName": "SpikeDashboard",
-        "projectPath": "/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/SpikeDashboard.csproj",
+        "projectPath": "/Users/ammarabutalip/Downloads/SpikeDashboard/SpikeDashboard.csproj",
         "packagesPath": "/Users/ammarabutalip/.nuget/packages/",
-        "outputPath": "/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/obj/",
+        "outputPath": "/Users/ammarabutalip/Downloads/SpikeDashboard/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ammarabutalip/.nuget/NuGet/NuGet.Config"

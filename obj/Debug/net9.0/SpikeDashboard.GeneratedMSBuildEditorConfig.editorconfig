@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SpikeDashboard
 build_property.RootNamespace = SpikeDashboard
-build_property.ProjectDir = /Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/
+build_property.ProjectDir = /Users/ammarabutalip/Downloads/SpikeDashboard/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard
+build_property.MSBuildProjectDirectory = /Users/ammarabutalip/Downloads/SpikeDashboard
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/Pages/Error.cshtml]
+[/Users/ammarabutalip/Downloads/SpikeDashboard/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/Pages/Index.cshtml]
+[/Users/ammarabutalip/Downloads/SpikeDashboard/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/Pages/Privacy.cshtml]
+[/Users/ammarabutalip/Downloads/SpikeDashboard/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/Pages/Shared/DashboardCard.cshtml]
+[/Users/ammarabutalip/Downloads/SpikeDashboard/Pages/Shared/DashboardCard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0Rhc2hib2FyZENhcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/Pages/Shared/_Layout.cshtml]
+[/Users/ammarabutalip/Downloads/SpikeDashboard/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/ammarabutalip/Downloads/SpikeDashboard/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/Pages/_ViewImports.cshtml]
+[/Users/ammarabutalip/Downloads/SpikeDashboard/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ammarabutalip/Downloads/untitled folder 5/SpikeDashboard/Pages/_ViewStart.cshtml]
+[/Users/ammarabutalip/Downloads/SpikeDashboard/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
