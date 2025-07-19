@@ -48,7 +48,7 @@ Cards = new List<DashboardCardModel>
                 value = 4.3,
                 change = 98.5,
                 lastWeekChange = 100,
-                valueType = "percentage",1`
+                valueType = "percentage"
             }
         };
     }
