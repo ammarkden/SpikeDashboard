@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpikeDashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9274374e8baa2ce85f565ac8d481d3411c736aec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccf8b479d8dec36c79eb0bc53f5cb4b2ad260e7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpikeDashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpikeDashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -123,8 +123,6 @@
 /Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/scopedcss/bundle/SpikeDashboard.styles.css
 /Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/compressed/v7who52dor-yk6dx1i92d.gz
 /Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/compressed/1zxdfpe20f-xqmhp45qi2.gz
-/Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/compressed/vde9s0rf7o-nauixyxw2v.gz
-/Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/compressed/h0dqecxnne-md4fsoa92i.gz
 /Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/compressed/es1bxbl18n-61n19gt1b8.gz
 /Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/compressed/394d56xcyz-xtxxf3hu2r.gz
 /Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/compressed/3i2cyvzdsl-bqjiyaj88i.gz
@@ -195,3 +193,5 @@
 /Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/SpikeDashboard.pdb
 /Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/SpikeDashboard.genruntimeconfig.cache
 /Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/ref/SpikeDashboard.dll
+/Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/compressed/vde9s0rf7o-bs5q2nok1k.gz
+/Users/ammarabutalip/Downloads/SpikeDashboard/obj/Debug/net9.0/compressed/h0dqecxnne-8v9spsner7.gz
